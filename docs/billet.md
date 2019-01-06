@@ -9,7 +9,7 @@
  - Durée de la conférence : 15mn
  - Conférencier(s) :
    - Betty Moreschini https://twitter.com/bettymoreschini
- - Audience : ~60
+ - Audience : ~60 personnes
  - Auteur du billet : Hugo LEROGERON
  - Mots-clés Recommandation, Ventes, Architecture
  - URL de l'illustration : ![Photo par CodeurEnSeine sur Twitter](illustration.jpg)
